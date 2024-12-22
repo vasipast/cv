@@ -9,7 +9,7 @@ function App() {
       <div className="w-full max-w-4xl bg-white p-8 shadow">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6 bg-gray-800 p-6 rounded-lg shadow-md">
           <img
-            src="/img/Profile.jpg"
+            src="../public/img/Profile.jpg"
             alt="Profile Photo"
             className="w-40 h-40 rounded-lg mx-auto md:mx-0"
             style={{ objectFit: "cover" }}
@@ -167,7 +167,7 @@ function App() {
                     rel="noopener noreferrer"
                   >
                     <img
-                      src="src/components/gif/TodoList.gif"
+                      src="../public/gif/TodoList.gif"
                       alt="TodoList"
                       className="w-full h-52 object-cover rounded-md mb-4"
                     />
@@ -192,7 +192,7 @@ function App() {
                     rel="noopener noreferrer"
                   >
                     <img
-                      src="/gif/Lamoda.gif"
+                      src="../public/gif/Lamoda.gif"
                       alt="Lamoda"
                       className="w-full h-52 object-cover rounded-md mb-4"
                     />
@@ -217,7 +217,7 @@ function App() {
                     rel="noopener noreferrer"
                   >
                     <img
-                      src="/gif/SPA.gif"
+                      src="../public/gif/SPA.gif"
                       alt="SPA"
                       className="w-full h-52 object-cover rounded-md mb-4"
                     />
@@ -243,7 +243,7 @@ function App() {
                     rel="noopener noreferrer"
                   >
                     <img
-                      src="/gif/Minesweeper.gif"
+                      src="../public/gif/Minesweeper.gif"
                       alt="Minesweeper"
                       className="w-full h-52 object-cover rounded-md mb-4"
                     />
