@@ -19,7 +19,7 @@ function App() {
               Vasilisa Pastushenko
             </h2>
             <span className="bg-white bg-opacity-60 rounded-lg text-lg mb-2 uppercase px-4 py-2 text-grey-400 font-bold ">
-              Front-end Developer & Desginer
+              Front-end Developer & Designer
             </span>
           </div>
         </div>
@@ -37,7 +37,7 @@ function App() {
                 and striving for excellence. Developed a website for a local
                 small business. Now I’m actively engaged in the creation and
                 design of advertising content, writing a coursework landing page
-                with Tilda.
+                on Tilda.
               </p>
             </div>
 
